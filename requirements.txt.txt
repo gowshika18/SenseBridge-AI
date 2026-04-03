@@ -1,0 +1,6 @@
+flask
+opencv-python
+pyttsx3
+speechrecognition
+pyaudio
+numpy
